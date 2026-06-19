@@ -6,7 +6,6 @@
   box-sizing: border-box;
   font-family: "Roboto Mono", monospace;
 }
-
 .main {
   min-height: 100vh;
   position: relative;
@@ -74,7 +73,6 @@
   font-size: 15px;
   cursor: pointer;
 }
-
 .main .input .talk i {
   font-size: 20px;
   color: #aed0d0;
